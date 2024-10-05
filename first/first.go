@@ -1,4 +1,4 @@
-package packagefolder
+package first
 
 import "fmt"
 
